@@ -19,6 +19,7 @@ phrase="Nice"
 end
 
 def last_evaluated_value
+  phrase="incompetent"
   phrase="expert"
 
 end
